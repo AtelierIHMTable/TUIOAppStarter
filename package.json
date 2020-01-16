@@ -1,6 +1,6 @@
 {
   "name": "tuioappstarter",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "scripts": {
     "dist": "node prod-webpack-compiler.js",
     "start": "webpack-dev-server"
